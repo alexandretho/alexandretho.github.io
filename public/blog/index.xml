@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Alexandre Santos</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Alexandre Santos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jul 2024 23:34:15 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cheat.sh </title>
+      <link>http://localhost:1313/blog/cheat-sh/</link>
+      <pubDate>Fri, 26 Jul 2024 23:34:15 -0300</pubDate>
+      <guid>http://localhost:1313/blog/cheat-sh/</guid>
+      <description>🌟 Acesse dicas e exemplos de comandos rapidamente com cheat.sh! 🌟&#xA;🔍 Diante de tantas ferramentas que usamos no dia a dia, tem uma super simples e que ajuda muito. Sou adepto dela há algum tempo e confesso que uso quase que diariamente, hehe. Caso você não conheça, está aí: use sem moderação. Bora lá, veja como é simples:&#xA;🎯 Como usar:&#xA;Basta rodar curl https://cheat.sh/ no terminal e voilà! Você recebe exatamente o que precisa, sem complicações.</description>
+    </item>
+  </channel>
+</rss>
