@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Alexandre Santos</title>
+    <link>https://alexandretho.github.io/posts/</link>
+    <description>Recent content in Posts on Alexandre Santos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jul 2024 01:13:51 -0300</lastBuildDate>
+    <atom:link href="https://alexandretho.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teste</title>
+      <link>https://alexandretho.github.io/posts/teste/</link>
+      <pubDate>Sat, 27 Jul 2024 01:13:51 -0300</pubDate>
+      <guid>https://alexandretho.github.io/posts/teste/</guid>
+      <description>Aqui é um teste posts</description>
+    </item>
+  </channel>
+</rss>
